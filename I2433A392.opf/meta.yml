@@ -1,0 +1,16 @@
+id: I2433A392
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:09:35.215518
+last_modified: 2023-02-09 15:09:35.215647
+source_metadata:
+  title: 'MSV 1,14: Poṣadhasthāpanavastu'
+  language: bo
+bases:
+  ACEF:
+    base_file: ACEF.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
